@@ -2,6 +2,16 @@
 
 **A digital photo frame… but served over the web.**
 
+## Fork
+
+This is a fork of [davidhfrankelcodes/frameserve](https://github.com/davidhfrankelcodes/frameserve)
+
+Changes:
+
+- Serve images not only from one folder `path/to/photos` but also recursively all images in subfolders in `path/to/photos`.
+
+## Original README:
+
 Frameserve turns a folder of photos into a clean, full-screen slideshow you can open in any browser — TVs, tablets, old laptops, wall displays, kiosks, you name it.
 
 No galleries.  
